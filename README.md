@@ -70,3 +70,5 @@ for ($i = 0; $i -le 1; $i++){
     }
 }
 ````
+
+#I took some audio code help from: https://www.reddit.com/r/PowerShell/comments/n5j3ic/happy_birthday_song_with_beep_tones_in_powershell/
