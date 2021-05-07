@@ -53,7 +53,6 @@ $FontText =
     "os2",
     "pebbles",
     "shadow",
-    "star_war",
     "panther_",
     "rci_____"
 
