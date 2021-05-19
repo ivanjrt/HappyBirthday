@@ -1,6 +1,6 @@
 # HappyBirthday
 ```` Ruby
-$Notes = @(
+$BeepList = @(
     @{ Pitch = 1059.274; Length = 300; };
     @{ Pitch = 1059.274; Length = 200; };
     @{ Pitch = 1188.995; Length = 500; };
