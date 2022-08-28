@@ -1,4 +1,4 @@
-# Due to the http://artii.herokuapp.com/ is not longer online, see the next Readme
+#e http://artii.herokuapp.com/ is not longer online, but you can have an Idea on how to use it
 
 # HappyBirthday
 ```` Ruby
